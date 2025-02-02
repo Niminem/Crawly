@@ -1,0 +1,10 @@
+We'll definitely want crawly to create a CLI-driven application.
+It will be much easier to leverage a UI with this later.
+So...
+1. config file
+2. interaction via terminal for starting, pausing, etc.
+
+TODO: let's focus on config file first
+- need initial list of arguments
+- give ability to add user-defined arguments that can be referenced
+- create load/parse/etc functions for interaction
