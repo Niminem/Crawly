@@ -8,3 +8,6 @@ TODO: let's focus on config file first
 - need initial list of arguments
 - give ability to add user-defined arguments that can be referenced
 - create load/parse/etc functions for interaction
+
+Notes:
+- ignoring error handling for now. probably going to wait until the API is largely complete.
